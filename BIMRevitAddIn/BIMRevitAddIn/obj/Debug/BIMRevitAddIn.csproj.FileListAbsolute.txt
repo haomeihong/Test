@@ -1,0 +1,7 @@
+C:\Users\dww\Documents\Visual Studio 2015\Projects\BIMRevitAddIn\BIMRevitAddIn\obj\Debug\BIMRevitAddIn.UI.FileImportDialog.resources
+C:\Users\dww\Documents\Visual Studio 2015\Projects\BIMRevitAddIn\BIMRevitAddIn\obj\Debug\BIMRevitAddIn.csproj.GenerateResource.Cache
+C:\Users\dww\Documents\Visual Studio 2015\Projects\BIMRevitAddIn\BIMRevitAddIn\bin\Debug\BIMRevitAddIn.dll
+C:\Users\dww\Documents\Visual Studio 2015\Projects\BIMRevitAddIn\BIMRevitAddIn\bin\Debug\BIMRevitAddIn.pdb
+C:\Users\dww\Documents\Visual Studio 2015\Projects\BIMRevitAddIn\BIMRevitAddIn\bin\Debug\BIMCoder.OfficeHelper.dll
+C:\Users\dww\Documents\Visual Studio 2015\Projects\BIMRevitAddIn\BIMRevitAddIn\obj\Debug\BIMRevitAddIn.dll
+C:\Users\dww\Documents\Visual Studio 2015\Projects\BIMRevitAddIn\BIMRevitAddIn\obj\Debug\BIMRevitAddIn.pdb
